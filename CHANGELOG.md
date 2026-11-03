@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`abe2e55`](https://github.com/stdlib-js/stdlib/commit/abe2e550ce8c29d07dc21901e5ba4221f941a300) - **build:** add wasm configurations [(#13771)](https://github.com/stdlib-js/stdlib/pull/13771) _(by Karan Anand, Athan Reines)_
 -   [`5d3c84a`](https://github.com/stdlib-js/stdlib/commit/5d3c84a62f9c32af8ae37b52c293f3566b4c107a) - **test:** fix element annotations in ndarray offset tests [(#12345)](https://github.com/stdlib-js/stdlib/pull/12345) _(by Karan Anand)_
 -   [`ce17493`](https://github.com/stdlib-js/stdlib/commit/ce17493d5f87ef366feced6ec5d4d871c4507033) - **feat:** add `blas/ext/base/capx` [(#12239)](https://github.com/stdlib-js/stdlib/pull/12239) _(by Karan Anand, Athan Reines)_
@@ -36,10 +37,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
